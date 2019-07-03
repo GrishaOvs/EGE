@@ -1,3 +1,4 @@
 #pragma once
 
-int factorial(int n); // calculates factorial
+// calculates factorial of integer numbers
+int factorial(int n);
