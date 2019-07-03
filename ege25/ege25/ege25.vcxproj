@@ -125,8 +125,11 @@
   <ItemGroup>
     <ClCompile Include="factorial.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="task2907.cpp" />
+    <ClCompile Include="task7682.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ege25.h" />
     <ClInclude Include="usefulTools.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

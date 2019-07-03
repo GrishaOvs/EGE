@@ -1,10 +1,11 @@
 #include "usefulTools.h"
+#include "ege25.h"
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-	cout << factorial(5) << endl;
+	task2907();
 	return 0;
 }
