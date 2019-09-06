@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-	task7709();
+	task9209();
 	return 0;
 }

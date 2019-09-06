@@ -12,3 +12,5 @@ void task9660();
 
 // what???
 void task7709();
+
+void task9209();
