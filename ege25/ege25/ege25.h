@@ -14,3 +14,5 @@ void task9660();
 void task7709();
 
 void task9209();
+
+void task7936();
